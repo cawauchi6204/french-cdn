@@ -1,0 +1,7 @@
+header ul {
+    display: flex;
+}
+
+header ul li {
+    margin-right: 10%;
+}
